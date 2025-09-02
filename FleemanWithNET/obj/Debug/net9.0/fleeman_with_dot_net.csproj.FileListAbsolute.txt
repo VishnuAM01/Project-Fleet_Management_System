@@ -1,0 +1,302 @@
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\appsettings.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.staticwebassets.endpoints.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.exe
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.deps.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.runtimeconfig.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.pdb
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.csproj.AssemblyReference.cache
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.AssemblyInfoInputs.cache
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.AssemblyInfo.cs
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.csproj.CoreCompileInputs.cache
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\scopedcss\bundle\fleeman_with_dot_net.styles.css
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_.04952F38.Up2Date
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\refint\fleeman_with_dot_net.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.pdb
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.genruntimeconfig.cache
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\ref\fleeman_with_dot_net.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Humanizer.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MAHESH RATHOD\Desktop\Project1\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\appsettings.Development.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.staticwebassets.endpoints.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\appsettings.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.exe
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.deps.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.runtimeconfig.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fleeman_with_dot_net.pdb
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Azure.Core.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Azure.Identity.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Humanizer.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.ClientModel.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.CodeDom.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.csproj.AssemblyReference.cache
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.AssemblyInfoInputs.cache
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.AssemblyInfo.cs
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.csproj.CoreCompileInputs.cache
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.MvcApplicationPartsAssemblyInfo.cs
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.MvcApplicationPartsAssemblyInfo.cache
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\scopedcss\bundle\fleeman_with_dot_net.styles.css
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.build.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.development.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_.04952F38.Up2Date
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\refint\fleeman_with_dot_net.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.pdb
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\fleeman_with_dot_net.genruntimeconfig.cache
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\ref\fleeman_with_dot_net.dll
+D:\Vita\VitaProjectFrontEnd\fleeman_with_dot_net\fleeman_with_dot_net\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

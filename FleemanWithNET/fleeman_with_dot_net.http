@@ -1,0 +1,21 @@
+@fleeman_with_dot_net_HostAddress = http://localhost:5231
+
+GET {{fleeman_with_dot_net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+# Test Login Endpoint
+POST {{fleeman_with_dot_net_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "test@example.com",
+  "password": "yourpassword"
+}
+
+###
+
+# Test Token Verification Endpoint
+POST {{fleeman_with_dot_net_HostAddress}}/api/auth/verify
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
